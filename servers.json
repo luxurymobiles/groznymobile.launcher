@@ -1,0 +1,12 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "01 server",
+      "x2": true,
+      "maxonline": 1000,
+      "name": "AZURE",
+      "online": 268,
+      "host": "94.198.51.12",
+      "port": 1497
+    }
+  ]
